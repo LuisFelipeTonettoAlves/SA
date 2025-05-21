@@ -5,3 +5,6 @@ Hoje nós fizemos o fluxograma da SA, onde todos participaram ativamente da ativ
 
 Dia 19/05/25
 Hoje nós começamos a fazer o nosso sistema em java todos contribuiram para o projeto. Nós fizemos as primeiras funções para o menu de interface (1 ao 3, para ser mais específico). Concluímos o dia ainda tendo que terminar o resto do código e a parte de HTML.
+
+Dia 20/05/2025
+Hoje nós aprimoramos o código, resolvendo as duas primeiras opções e criando variáveis universais. Nós atualmente, estamos enfrentando o problema em relação a lista, um desafio de precisamos solucionar.
