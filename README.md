@@ -8,3 +8,5 @@ Hoje nós começamos a fazer o nosso sistema em java todos contribuiram para o p
 
 Dia 20/05/2025
 Hoje nós aprimoramos o código, resolvendo as duas primeiras opções e criando variáveis universais. Nós atualmente, estamos enfrentando o problema em relação a lista, um desafio que precisamos solucionar. Além disso, começamos a produzir o HTML, que parece promissor, e temos uma certa conclusão.
+Dia 22/05/2025
+Encurtamos a opção, fizemos mais da opção 2, nisso, todos se envolveram ativamente no projeto. Precisamos continuar a desenvolver as outras opções para o projeto.
