@@ -62,9 +62,13 @@ public class A {
 			}
 			return "Máquina Registrada!";
 		}
-			public static int op3 (Scanner entrada) {
+			public static String op3 (Scanner entrada) {
 				System.out.println("Em que setor está a máquina que você deseja saber a produção semanal?");
-			
+				  entrada.nextLine();
+				    String setordesejado = entrada.nextLine();
+				    int indice = nomeSetor.indexOf(setordesejado);
+				    
+				    return "";
 			}
 		public static String op4 (Scanner entrada) {
 			System.out.println("Selecione o setor que deseja fiscalizar: ");
