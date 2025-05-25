@@ -10,5 +10,6 @@ Dia 20/05/2025
 Hoje nós aprimoramos o código, resolvendo as duas primeiras opções e criando variáveis universais. Nós atualmente, estamos enfrentando o problema em relação a lista, um desafio que precisamos solucionar. Além disso, começamos a produzir o HTML, que parece promissor, e temos uma certa conclusão.
 Dia 22/05/2025
 Encurtamos a opção, fizemos mais da opção 2, nisso, todos se envolveram ativamente no projeto. Precisamos continuar a desenvolver as outras opções para o projeto.
+
 Dia 24/05/2025
-Fizemos o código pela tarde inteira e finalizamos, eliminamos a quarta opção por julgarmos desnecessária. 
+Fizemos o código pela tarde inteira e **finalizamos**, eliminamos a quarta opção por julgarmos desnecessária. 
